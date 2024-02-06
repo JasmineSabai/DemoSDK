@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691175347208",
+    "project_id": "demosdk-78da1",
+    "storage_bucket": "demosdk-78da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691175347208:android:06234431511fa604e0edbd",
+        "android_client_info": {
+          "package_name": "com.jasmine.demosdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLAHUBoEq88Z5O8T2wKqodf2wosteCRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
